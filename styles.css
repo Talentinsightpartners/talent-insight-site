@@ -105,7 +105,8 @@ nav a {
   }
 }
 .hero {
-  background-image: url('images/hero.jpg');
-  /* rest of your styling */
+  background-image: url('hero.png'); /* Use .png since that’s what you uploaded */
 }
+
+
 
