@@ -49,7 +49,6 @@ nav a {
   background-size: cover;
   background-position: center;
   height: 80vh;
-  position: relative;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -116,3 +115,4 @@ nav a {
     padding: 10px 15px;
   }
 }
+
