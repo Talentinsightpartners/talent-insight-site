@@ -48,7 +48,7 @@ nav a {
   background-image: url('images/hero.png');
   background-size: cover;
   background-position: center;
-  height: 50vh; /* reduced from 80vh */
+  height: 35vh; /* reduced from 50vh */
   display: flex;
   align-items: center;
   justify-content: center;
@@ -157,6 +157,7 @@ nav a {
   <p>&copy; 2025 Talent Insight Partners. All rights reserved.</p>
   <p><a href="contact.html">Contact</a> | <a href="accessibility-inclusion.html">Accessibility</a></p>
 </footer>
+
 
 
 
