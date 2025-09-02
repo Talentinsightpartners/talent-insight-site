@@ -115,4 +115,32 @@ nav a {
     padding: 10px 15px;
   }
 }
+.logo {
+  width: 150px;
+  height: auto;
+  margin-right: 20px;
+}
+@media (max-width: 768px) {
+  nav ul {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .hero-overlay h1 {
+    font-size: 1.8rem;
+  }
+
+  .hero-overlay p {
+    font-size: 1rem;
+  }
+
+  .cta {
+    padding: 10px 15px;
+  }
+}
+<footer role="contentinfo">
+  <p>&copy; 2025 Talent Insight Partners. All rights reserved.</p>
+  <p><a href="contact.html">Contact</a> | <a href="accessibility-inclusion.html">Accessibility</a></p>
+</footer>
+
 
