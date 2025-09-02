@@ -48,12 +48,11 @@ nav a {
   background-image: url('images/hero.png');
   background-size: cover;
   background-position: center;
-  height: 80vh;
+  height: 50vh; /* reduced from 80vh */
   display: flex;
   align-items: center;
   justify-content: center;
 }
-
 .hero-overlay {
   background-color: rgba(0, 0, 0, 0.5);
   color: white;
@@ -142,5 +141,6 @@ nav a {
   <p>&copy; 2025 Talent Insight Partners. All rights reserved.</p>
   <p><a href="contact.html">Contact</a> | <a href="accessibility-inclusion.html">Accessibility</a></p>
 </footer>
+
 
 
